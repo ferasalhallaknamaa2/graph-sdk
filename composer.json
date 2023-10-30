@@ -1,5 +1,5 @@
 {
-    "name": "linker/graph-sdk",
+    "name": "namaa-solutions/graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
